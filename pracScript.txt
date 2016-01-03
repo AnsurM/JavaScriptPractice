@@ -1,0 +1,10 @@
+#If else practice script.
+
+var nameAsk = prompt("Your first name please?");
+if (nameAsk === "Ansur") {
+  alert("Welcome back, Ansur");
+} else if (nameAsk === "Gauhar") {
+  alert("Salam Abbu");
+} else {
+  alert("Access denied");
+}
